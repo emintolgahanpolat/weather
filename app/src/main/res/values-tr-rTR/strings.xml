@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="select_city">Yakın Şehirler</string>
+    <string name="wind_speed">Rüzgar Hızı</string>
+    <string name="wind_direction">Rüzgar Yönü</string>
+    <string name="air_pressure">Hava Basıncı</string>
+    <string name="humidity">Nem</string>
+    <string name="visibility">Görünürlük</string>
+    <string name="predictability">Öngörülebilirlik</string>
+    <string name="weather_state_sn">Kar</string>
+    <string name="weather_state_sl">Sulu Kar</string>
+    <string name="weather_state_h">Dolu</string>
+    <string name="weather_state_t">Sağanak</string>
+    <string name="weather_state_hr">Yoğun Yağış</string>
+    <string name="weather_state_lr">Hafif Yağmur</string>
+    <string name="weather_state_s">Sağanak</string>
+    <string name="weather_state_hc">Çok Bulutlu</string>
+    <string name="weather_state_lc">Az Bulutlu</string>
+    <string name="weather_state_c">Temiz</string>
+</resources>

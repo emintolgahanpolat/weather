@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="by">Emin Tolgahan POLAT</string>
+    <string name="select_city">Select City</string>
+
+    <string name="default_notification_channel_id">Channel ID</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+
+
+    <string name="wind_speed">Wind Speed</string>
+    <string name="wind_direction">Wind Direction</string>
+    <string name="air_pressure">Air Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="visibility">Visibility</string>
+    <string name="predictability">Predictability</string>
+    <string name="fcm_token">FCM Token: %s</string>
+
+
+
+
+    <string name="weather_state_sn">Snow</string>
+    <string name="weather_state_sl">Sleet</string>
+    <string name="weather_state_h">Hail</string>
+    <string name="weather_state_t">Thunderstorm</string>
+    <string name="weather_state_hr">Heavy Rain</string>
+    <string name="weather_state_lr">Light Rain</string>
+    <string name="weather_state_s">Showers</string>
+    <string name="weather_state_hc">Heavy Cloud</string>
+    <string name="weather_state_lc">Light Cloud</string>
+    <string name="weather_state_c">Clear</string>
+
+
+</resources>
