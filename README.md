@@ -4,7 +4,7 @@
 <ul>
  <li><a href="https://www.metaweather.com/api/">Meta Weather API</a> ye gönderilen lat,lng konumuna göre listelenen şehirlerin günlük ve haftalık hava durumu bilgilerini gösteren uygulama
  </li> 
- <li>Broadcast Receiver ile anlık internet kontolü</li>
+ <li>Broadcast Receiver ile anlık internet kontrolü</li>
  <li>GPS konum izni</li> 
  <li>Çoklu dil</li>
 </ul>
